@@ -1,6 +1,8 @@
-# Nucleo-144
+# NUCLEO-144_DBG_TRACE_ADAPTER
 
-ST Nucleo-144 adapter, exposing standard Coresight 20 connector
+STM Nucleo-144 adapter, exposing standard Coresight 20 connector
+
+This adapter can be used with STM NUCLEO-144 boards
 
 # Standalone mode
 This example is based on NUCLEO-L4R5ZI
