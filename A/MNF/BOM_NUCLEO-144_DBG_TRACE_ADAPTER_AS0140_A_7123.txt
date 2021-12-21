@@ -1,0 +1,14 @@
+Item	Quantity	     Part	                  MNF part number
+  1	        1	    10u_25V	                GRM188R61E106MA73D
+  2	        1	    GREEN	                        APT1608LZGCK
+  3	        1	    GND	                                15B654
+  4	        1	    FTSH-110-01-F-DV-K	    FTSH-110-01-F-DV-K
+  5	        1	    PWRJACK_21	                     FC681465P
+  6	        1	    254_PH1_M_006_08	             61308011121
+  7	        1	    254_PH2_M_016_08	             61308021121
+  8	        1	    254_PH2_M_020_08	             61308021121
+  9	        1	    254_PH2_M_030_08	             61308021121
+  10	      1	    254_PH2_F_006_00	    803-87-072-10-001101
+  11	      1	    254_PH2_M_034_08	             61308021121
+  12	      1	    1k	                    CRCW06031K00FKTABC
+  13	      1	    E101J1ABE2 	                     101J1ABE2
